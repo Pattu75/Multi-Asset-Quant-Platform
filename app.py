@@ -503,7 +503,7 @@ st.sidebar.header("Navigation")
 page = st.sidebar.radio(
     "Select a page",
     [
-        "Bloomberg-Style Terminal",
+        "Research Terminal",
         "Market Data Explorer",
         "Multi-Asset Comparison",
         "Portfolio Optimizer",
